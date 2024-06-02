@@ -1,3 +1,9 @@
-p {
+text {
     color: #fff
+}
+
+text-div {
+    border-style: dotted;
+    border-color: #fff;
+    border-width: 5px;
 }
