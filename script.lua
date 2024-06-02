@@ -1,5 +1,6 @@
 local funky = get("text-div")
+local text = get("text")
 
 funky.on_click(function()
-    funky.set_opacity(0.5)
+    text.set_opacity(0.5)
 end)
