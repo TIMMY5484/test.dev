@@ -3,8 +3,8 @@ text {
 }
 
 text-div {
-    border-style: solid;
+    border-style: dashed;
     border-color: #fff;
-    border-width: 5px;
+    border-width: 3px;
     padding: 20px;
 }
